@@ -1,0 +1,24 @@
+.container{
+    margin-bottom: 100px;
+}
+.buynow{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.lft{
+    text-align: end;
+    color: orange;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey ;
+}
+.ct{
+    text-align: center;
+    text-decoration: underline orange;
+    
+}
